@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+websockets
+httpx
+langchain
+langchain-groq
+langchain-community
+langgraph
